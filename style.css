@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: linear-gradient(#0E81E5 0%, #E5720E 100%);
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#game{
+    width: 100%;
+    height: 800px;
+    background-color: lightcoral;
+    
+}
+img{transition: transform .2s;}
+img:hover{transform: scale(0.9)}
